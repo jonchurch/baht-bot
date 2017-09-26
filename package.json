@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node bot.js"
   },
+  "engines": {
+	  "node": "7.10.0"
+  },
   "dependencies": {
     "body-parser": "^1.15.2",
     "botkit": "^0.6",
