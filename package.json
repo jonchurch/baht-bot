@@ -12,7 +12,8 @@
     "debug": "^2.6.0",
     "express": "^4.14.0",
     "node-env-file": "^0.1.8",
-    "request": "^2.79.0",
+    "request": "^2.82.0",
+    "request-promise": "^4.2.2"
   },
   "devDependencies": {},
   "repository": {
@@ -24,7 +25,7 @@
     "chatbots",
     "Facebook",
     "Messenger",
-	"baht"
+    "baht"
   ],
   "author": "Jon Church",
   "license": "ISC"
